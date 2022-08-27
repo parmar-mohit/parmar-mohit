@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<span background="white">
-
 <p align="center"> 
     <img align="center" src="./Images/LinkedIn%20Banner.png" alt="LinkedIn Banner" />
 </p>
@@ -18,5 +16,3 @@
         <td> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmar-mohit&" alt="Mohit Parmar" /> </p> </td>
     </tr>
 </table>
-
-</span>
