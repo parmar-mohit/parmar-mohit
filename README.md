@@ -14,8 +14,8 @@
 
 <table align="center">
     <tr>
-        <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=parmar-mohit&show_icons=true&" alt="Mohit Parmar" /> </td>
-        <td> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmar-mohit&" alt="Mohit Parmar" /> </td>
+        <td> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=parmar-mohit&show_icons=true&" alt="Mohit Parmar" /> </p> </td>
+        <td> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmar-mohit&" alt="Mohit Parmar" /> </p> </td>
     </tr>
 </table>
 
