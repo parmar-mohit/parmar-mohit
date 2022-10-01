@@ -31,3 +31,5 @@
         <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmar-mohit&" alt="Mohit Parmar" /></p></td>
     </tr>
 </table>
+
+[![Mohit Parmar's Activity Graph](https://activity-graph.herokuapp.com/graph?username=parmar-mohit&custom_title=Mohit%20Parmar's%20Contribution%20Graph&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/parmar-mohit)
