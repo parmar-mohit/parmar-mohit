@@ -21,11 +21,11 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=parmar-mohit&show_icons=true&locale=en&layout=compact" alt="parmar-mohit" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=parmar-mohit&show_icons=true&locale=en&layout=compact" alt="parmar-mohit" /></p>
 
 <table align="center">
     <tr>
-        <td><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=parmar-mohit&show_icons=true&" alt="Mohit Parmar" /></p></td>
+        <td><p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parmar-mohit&show_icons=true" alt="Mohit Parmar" /></p></td>
         <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmar-mohit&" alt="Mohit Parmar" /></p></td>
     </tr>
 </table>
